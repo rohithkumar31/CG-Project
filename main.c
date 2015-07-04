@@ -1,4 +1,4 @@
-/* Particles in a box-shaped container */
+/* Particles in a various shaped containers */
 
 #include <stdlib.h>
 #include <stdio.h>
